@@ -21,7 +21,7 @@ shape
 
 Piruz Alemi Feb 5th, 2020
 
-ps. 3 Records from Input data is provided as a sample of deata used:
+ps. 3 Records from Input data is provided as a sample of data used:
 
 var data = [{
     datetime: "1/1/2010",
