@@ -1,13 +1,13 @@
 # javascript-challenge
 Using the UFO dataset provided in the form of an array of JavaScript objects, this Alemi repository appends a table to my web page and then adds new rows of data for each UFO sighting.
 
-# Level 1: Automatic Table and Date Search
+## Level 1: Automatic Table and Date Search
 
 I made sure I have a column for date/time, city, state, country, shape, and comment at the very least.
 
 Used a date form in my HTML document and wrote an Alemi JavaScript code that will listen for events and search through the date/time column to find rows that match any users input.
 
-# Level 2: Multiple Search Categories
+## Level 2: Multiple Search Categories
 
 In part II. 
 
